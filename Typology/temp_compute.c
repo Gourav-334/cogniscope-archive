@@ -1,3 +1,26 @@
+/*
+ *
+ * SPDX-License-Identifier: CC-BY-4.0
+ * Copyright (c) 2025 Gourav Kumar Mallick
+ *
+ * Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+ * You may copy, redistribute, remix, transform, and build upon this work for any purpose,
+ * even commercially, provided that you give appropriate credit to the original author,
+ * include a link to the license, and indicate if changes were made.
+ *
+ * Full license: https://creativecommons.org/licenses/by/4.0/
+ *
+ */
+
+
+
+
+
+
+
+
+
+
 /* Importing all required libraries. */
 
 #include <stdio.h>
@@ -84,6 +107,15 @@ float variance(signed short int *temp_diff)
 
 int main()
 {
+	/* License terms. */
+
+	printf("\nSPDX-License-Identifier: CC-BY-4.0\n");
+	printf("Copyright (c) 2025 Gourav Kumar Mallick\n\n\n");
+
+
+
+
+
 	/* Command line information for users. */
 
 	printf("Rating points meaning:\n");
