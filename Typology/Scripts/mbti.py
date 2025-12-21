@@ -44,7 +44,7 @@ class MBTINearestCentroidClassifier:
 
 def get_user_input() -> List[float]:
     print("=== MBTI Prediction Based on Neurochemical Self-Assessment ===\n")
-    print("Rate yourself on a scale of 1 to 5 for each trait (1 = very low, 5 = very high):\n")
+    print("Rate yourself on a scale of 1 to 5 for each trait:\n1 = Very low\n2 = Slightly low\n3 = Balanced\n4 = Slightly high\n5 = Very high\n")
     
     questions = [
         "Dopamine-related traits (novelty-seeking, excitement, energy, curiosity, impulsivity)",
